@@ -1,10 +1,10 @@
 body {
   width: 99%;
   height: 900px;
-  background-color: #ffcc66;
+  background-color: lightgreen;
 }
 #top-bar {
-	margin-top: 28px;
+	margin-top: 32px;
 }
 .spacing-reset {
   padding: 0;
@@ -47,7 +47,7 @@ input.custInput {
 	margin: auto;
 	width: 400px;
 	height: 80px;
-  font-size: 38px
+  font-size: 41px
 }
 .task {
 	border-style: solid;
